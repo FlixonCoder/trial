@@ -71,6 +71,9 @@ class ConfigPayload(BaseModel):
 def _sanitize_keys(keys: Dict[str, str]) -> Dict[str, str]:
     return {k: v.strip() for k, v in (keys or {}).items() if isinstance(v, str) and v.strip()}
 
+@app.get("/")
+def root():
+    return {"message":"Working well"}
 
 @app.post("/config")
 async def set_config(payload: ConfigPayload):
