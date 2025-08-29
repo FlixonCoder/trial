@@ -1,0 +1,14 @@
+fastapi
+murf
+google-genai
+assemblyai
+dotenv
+uvicorn
+python-multipart
+websocket
+websockets
+logging
+tavily-python
+attrs
+beautifulsoup4
+pydantic

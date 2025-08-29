@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-08-28T15:10:55.746009"
+  },
+  {
+    "role": "agent",
+    "content": "Welcome. Your arrival was expected, though perhaps not by you. What is it you seek to understand, or rather, what illusions do you wish to have unveiled today?",
+    "timestamp": "2025-08-28T15:11:03.312723"
+  },
+  {
+    "role": "user",
+    "content": "how is the weather in bangalore right now",
+    "timestamp": "2025-08-28T15:11:16.725054"
+  },
+  {
+    "role": "agent",
+    "content": "The weather in Bangalore is currently overcast, with a temperature of 23.11 degrees Celsius. It seems even the skies conspire to obscure clear vision. How fitting.",
+    "timestamp": "2025-08-28T15:11:25.605061"
+  }
+]
